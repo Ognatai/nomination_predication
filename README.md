@@ -1,5 +1,5 @@
 # Detecting Gender Discrimination on Entity Level Using Linguistic Discourse Analysis
- complementary reposetory
+ complementary repository
 
  ## contents
  `figures\`: Report visualisation for each text  
